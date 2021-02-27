@@ -21,7 +21,7 @@ Currently working on iOS apps and frameworks. Passionate about Swift and SwiftUI
 [![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/pawello2222/)
 [![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/pawello2222/)
 
-- Full stack web applications
+- Web applications
 
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/pawello2222/)
 [![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://github.com/pawello2222/)
