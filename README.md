@@ -10,7 +10,7 @@
 ---
 [![Swit](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/pawello2222/)
 
-iOS Engineer working on iOS apps and frameworks. Passionate about Swift and SwiftUI.
+Currently working on iOS apps and frameworks. Passionate about Swift and SwiftUI.
 
 <details><summary>Previously worked on</summary>
 
