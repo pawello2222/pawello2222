@@ -12,10 +12,7 @@
 
 iOS Engineer working on iOS apps and frameworks. Passionate about Swift and SwiftUI.
 
----
-
-
-Previously worked on:
+<details><summary>Previously worked on:</summary>
 
 - Machine learning algorithms
 
@@ -58,6 +55,7 @@ Previously worked on:
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/pawello2222/)
 [![Unreal engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)](https://github.com/pawello2222/)
 
+</details>
 
 ---
 
