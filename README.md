@@ -30,6 +30,11 @@ Currently working on iOS apps and frameworks. Passionate about Swift and SwiftUI
   <a href="https://github.com/pawello2222/WidgetExamples/tree/ios17-refactor">
     <img src="https://raw.githubusercontent.com/pawello2222/WidgetExamples/ios17-refactor/.resources/Assets/logo.png" alt="Widget Examples" height=125>
   </a>
+  &nbsp;
+  <a href="https://github.com/pawello2222/AppIconGenerator">
+    <img src="https://raw.githubusercontent.com/pawello2222/AppIconGenerator/main/.resources/Assets/logo.png" alt="XFormatter" height=125>
+  </a>
+  </a>
 </p>
 
 ##
